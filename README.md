@@ -12,7 +12,7 @@ Two search algorithms have been implemented which are as follows -
 
 ## How to run the algorithms ?
 
-1. To run Iterative Deeepening, type the following code - 
+1. To run Iterative Deepening, type the following code - 
 
    `python pacman.py -l tinyMaze -p SearchAgent -a fn=ids`
 
